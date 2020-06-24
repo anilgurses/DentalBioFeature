@@ -74,3 +74,5 @@ You can use your own dataset for the training process or pre-trained version of 
 
 Note: Due to the privacy conservation of biomedical data, the data isn't available publicly. Please do not request access for the data. 
 
+Contact: anilgurses@ieee.org
+
