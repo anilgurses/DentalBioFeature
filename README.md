@@ -5,10 +5,10 @@ This repository includes required software for dental biometric feature extracti
 
 ## Setup
 
-Installing python 3.7 packages
+Installing required python packages
 > pip3 install -r requirements.txt
 
-All of the setup could be done with this. Also, you need to install OpenCv for image feeding processes. OpenCv version must be older than 4.0 version. That causes from the function changes on the newer versions of OpenCv.
+All of the setup could be done with above step. Also, you need to install OpenCv for image feeding processes. OpenCv version must be older than version 4.0. The reason for it is the OpenCV has changed some functions(removed some of them) on the newer versions.
 
 ## File Organization
 
@@ -72,7 +72,7 @@ python3 main.py --mode train --lr 0.0001 --ne 250
 
 You can use your own dataset for the training process or pre-trained version of the code. You need to create csv before you train your model. Some path strings should be changed on the code. 
 
-Note: Due to the privacy conservation of biomedical data, the data isn't available publicly. Please do not request access for the data. 
+Note: Due to the privacy conservation of biomedical data, the data couldn't be available to public. Please do not request access for the data. 
 
 Contact: anilgurses@ieee.org
 
