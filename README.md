@@ -1,6 +1,6 @@
 # Dental Biometric Features for Human Identification
 
-This repository consists of research project about dental biometric feature extraction. The whole work has done with TF Keras 2.0 and PyTorch 1.5 seperately. Some of the pre-trained models don't exist on each library. Therefore, Keras and PyTorch have used on particular pre-trained networks. 
+This repository includes required software for dental biometric feature extraction. The whole work has done with TF Keras 2.0 and PyTorch 1.5 seperately. Some of the pre-trained models don't exist on each library. Therefore, Keras and PyTorch have used on particular pre-trained networks. 
 
 
 ## Setup
